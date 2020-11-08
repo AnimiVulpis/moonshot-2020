@@ -6,5 +6,9 @@
   "repository": "git@github.com:AnimiVulpis/moonshot-2020.git",
   "author": "AnimiVulpis <animi.vulpis@gmail.com>",
   "license": "BlueOak-1.0.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "phaser": "3.24.1",
+    "prettier": "^2.1.2"
+  }
 }
