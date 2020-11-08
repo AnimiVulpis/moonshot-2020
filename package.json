@@ -8,6 +8,7 @@
   "license": "BlueOak-1.0.0",
   "private": true,
   "devDependencies": {
+    "http-server": "^0.12.3",
     "phaser": "3.24.1",
     "prettier": "^2.1.2"
   }
