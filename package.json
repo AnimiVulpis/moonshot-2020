@@ -7,6 +7,9 @@
   "author": "AnimiVulpis <animi.vulpis@gmail.com>",
   "license": "BlueOak-1.0.0",
   "private": true,
+  "scripts": {
+    "serve": "http-server web/"
+  },
   "devDependencies": {
     "http-server": "^0.12.3",
     "phaser": "3.24.1",
